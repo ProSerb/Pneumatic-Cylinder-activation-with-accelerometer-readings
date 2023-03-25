@@ -6,7 +6,7 @@ A mechanical switch when pressed activates a pneumatic double acting cylinder by
 _Program language_: C++
 
 #### Embedded devices setup:
-|LED's are defined that signal a certain colour for different phases of the pneumatic activation. GREEN when the system is ready for the switch to be pressed and YELLOW when the switch is activated and the pneumatic cylinder is in operation | The switches's analog pin is defined. | i2c communication protocol is followed to have the Arduino UNO retrieve the accelerometer's readings.|
+LED's are defined that signal a certain colour for different phases of the pneumatic activation. GREEN when the system is ready for the switch to be pressed and YELLOW when the switch is activated and the pneumatic cylinder is in operation. | The switches's analog pin is defined. | i2c communication protocol is followed to have the Arduino UNO retrieve the accelerometer's readings.
 
 #### Work flow:
 Blink GREEN LED, indicating that it is waiting for the switch to be pressed. If switch is pressed than GREEN LED stays on,  
