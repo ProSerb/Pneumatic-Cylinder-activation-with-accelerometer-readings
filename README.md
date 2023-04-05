@@ -1,5 +1,5 @@
 ## Pneumatic-Cylinder-activation-with-accelerometer-readings
-![alt text](https://github.com/T-Basic/Pneumatic-Cylinder-activation-with-accelerometer-readings/blob/Pneumatic Rig.PNG?raw=true)
+![alt text](https://github.com/T-Basic/Pneumatic-Cylinder-activation-with-accelerometer-readings/blob/Pneumatic Rig.PNG?raw=true](https://github.com/T-Basic/Pneumatic-Cylinder-activation-with-accelerometer-readings/blob/main/Pneumatic%20Rig.PNG))
 
 #### Description:
 A mechanical switch when pressed activates a pneumatic double acting cylinder by programming a microcontroller to send a low current signal to a motor driver, which then transfers the signal to a higher-current signal that can switch the state of a solenoid valve, allowing air to flow from an air compressor into the pneumatic cylinder, linearly actuating the piston rod, while also recording the output of an accelerometer (Adafruit LIS3DH) mounted on the piston rod.
